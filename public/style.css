@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+select.form-control {
+    margin-top: -24px;
+}
+
+input.form-control.mr-sm-2 {
+    width: 83%;
+}
+
+.searchAndAdd.my-5 {
+    margin-top: 92px !important;
+}
+
+a.nav-a.href {
+    color: #fefefe;
+}

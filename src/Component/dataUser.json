@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"Trương Đức Hoàn",
+        "numberPhone":"0349380770",
+        "phanQuyen":1
+    },
+    {
+        "id":2,
+        "name":"Quảng Thu Xuân",
+        "numberPhone":"0349380771",
+        "phanQuyen":2
+    },
+    {
+        "id":3,
+        "name":"Dương Anh Tú",
+        "numberPhone":"0349380772",
+        "phanQuyen":2   
+    }
+]
